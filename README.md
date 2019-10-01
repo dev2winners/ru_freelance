@@ -1,37 +1,34 @@
-## Welcome to GitHub Pages
+# Фриланс с лицом человека
 
-You can use the [editor on GitHub](https://github.com/dev2winners/ru_freelance/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+## Список проблем для решения:
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+1. Фрилансы недовольны малым числом заказов
 
-### Markdown
+2. Фрилансы недовольны низкими гонорарами
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+3. Заказчики недовольны низким качеством работ и срывом сроков разработки
 
-```markdown
-Syntax highlighted code block
+4. Заказчики недовольны внезапными исчезновениями фрилансов из проекта. 
 
-# Header 1
-## Header 2
-### Header 3
+## Предлагаемое решение:
 
-- Bulleted
-- List
+> Организация со свободной структурой, координируемая опытными специалистами-экспертами.
 
-1. Numbered
-2. List
+## Основные принципы такой организации:
 
-**Bold** and _Italic_ and `Code` text
+**Круговая порука** - ответственность за проект берет на себя всё сообщество, а не только непосредственный исполнитель. Это дает заказчику уверенность в том, что всё будет сделано должным образом.
 
-[Link](url) and ![Image](src)
-```
+**Профессиональный и личностный ценз** - на данный момент мы принимаем в сообщество профессионалов с IQ 130-140 и выше, не употребляющих алкоголь, и в целом сознающих, что их образ жизни (питание, подвижность, режим сна) сказывается на профессиональных результатах. 
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+**Отношения с заказчиком, как с партнером** - вместо привычного для нынешнего бизнеса стиля конкуренции между заказчиком и исполнителем, где каждый хочет поиметь другого - мы предлагаем партнерские отношения между двумя сторонами контракта. Вот ключевое в этих отношениях:
 
-### Jekyll Themes
+> Во главу проекта ставится не личная выгода, а **общая** цель - успешное завершение проекта. Такой подход требует определенной ломки привычных шаблонов как от исполнителя, так и заказчика.
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/dev2winners/ru_freelance/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+**Время стоит денег** - время потраченное на инициацию проекта - многочасовые переговоры, проникновение в детали ТЗ, оценка работ, настройка серверов, и тому подобное - все это должно быть оплачено. То же самое с сопутствующими расходами. Время потраченное на разные виды работ может стоить разных денег, да, но в любом случае оно должно быть оценено.
 
-### Support or Contact
+Это общие принципы, задающие направление тренда. Они могут быть расширены и детализованы в зависимости от контекста реализации. 
 
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+На данный момент мы пытаемся воплотить вышеизложенное в рамках проекта [2winners.com](https://2winners.com "2winners.com") - но вообще, эти принципы публикуются под лицензией MIT и ваше право реализовать их в соответствии с собственным видением и пониманием.
+
+Роман Д.
+https://t.me/romand
